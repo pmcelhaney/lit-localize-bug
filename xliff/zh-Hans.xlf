@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+<file target-language="zh-Hans" source-language="en" original="lit-localize-inputs" datatype="plaintext">
+<body>
+<trans-unit id="h71437edc6d0d1c12">
+  <source><x id="0" equiv-text="&lt;b&gt;${this.who}&lt;/b&gt;"/>Hello <x id="0" equiv-text="&lt;b&gt;${this.who}&lt;/b&gt;"/></source>
+</trans-unit>
+</body>
+</file>
+</xliff>
